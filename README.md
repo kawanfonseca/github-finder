@@ -1,4 +1,4 @@
 # GitHub Finder Project
 
-This is available at https://github-finder-app-neon-gamma.vercel.app/
+This is available at https://github-finder-app-kawanfonseca.vercel.app/
 Check it out!
